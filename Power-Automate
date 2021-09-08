@@ -1,0 +1,3 @@
+******************** Add days in date ***********************
+
+addDays(triggerBody()['Compose_Inputs_1'],int(items('Apply_to_each')?['Due_x0020_Date']))
